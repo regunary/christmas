@@ -1,0 +1,23 @@
+{
+  "greeting": "Hello",
+  "name": "Special One",
+  "greetingText": "I want to tell you something...",
+  "text1": "this is... :D",
+  "textInChatBox": "Merry Christmas. Wish you all the best! 🫶",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "imagePath": "img/adam.png",
+  "wishHeading": "Merry Christmas/🎄 !",
+  "wishText": "May your days be merry and bright, filled with warmth and endless light. Merry Christmas! ;)",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
