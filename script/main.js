@@ -1,6 +1,6 @@
 // Import the data to customize and insert them into page
 const fetchData = () => {
-  var jsonPath = "customize_data/gia-dinh.json";
+  var jsonPath = "customize_data/thao.json";
   // Get the URLSearchParams object from the current URL
   const urlParams = new URLSearchParams(window.location.search);
   // Get the value of the 'name' parameter
