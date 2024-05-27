@@ -2,7 +2,7 @@
 
 ### Wish someone special Christmas day in a special way.
 
-#### [See it Live](https://duonggiakhanhb.github.io/christmas/)
+#### [See it Live](https://regunary.github.io/christmas/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
@@ -22,7 +22,7 @@ I've created the JSON file (`customize.json`) for easy and quick customizability
 
 Please note that I've created this page in a hurry and it comes with no warranty.
 
-Feel free to [get in touch with me](mailto:duonggiakhanhb@gmail.com) if you need any help with it. :)
+Feel free to [get in touch with me](mailto:pmtien16.8@gmail.com) if you need any help with it. :)
 
 
 ## Contributing
